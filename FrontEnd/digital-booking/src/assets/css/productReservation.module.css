@@ -1,0 +1,78 @@
+.cardCategory{
+  font-weight: 600 !important;
+  color: var(--secondary);
+}
+
+.cardReserva{
+  height: 100%;
+}
+
+/* ---------------- RESERVATION SUCCESS ---------------  */
+.cardContainer{
+  padding: 45px 20px 0 20px;
+}
+
+
+@media(max-width: 991px){
+  .cardReserva{
+    max-height: 500px;
+  }
+  .reservationCards{
+    width: 95vw !important;
+  }
+  .cardImg{
+    height: 400px;
+  }
+}
+
+@media(max-width: 1280px) and (max-height: 800px){
+  .cardContainer{
+    padding: 12vh 20px 5vh 20px !important;
+  }
+}
+
+@media(max-width: 991px) and (max-height: 1180px){
+  .cardContainer{
+    padding: 22.2vh 20px;
+  }
+}
+
+@media(max-width: 800px) and (max-height: 1180px){
+  .cardContainer{
+    padding: 18vh 20px;
+  }
+}
+
+@media(max-width: 767px){
+  .cardReserva{
+    max-height: 910px;
+  }
+
+  .cardContainer{
+    padding: 119px 20px;
+  }
+}
+
+@media(max-width: 575px){
+  .arrivalSelect{
+    width: 100% !important;
+  }
+}
+
+@media(max-width: 575px) and (max-height: 915px){
+  .cardContainer{
+    padding: 126px 20px;
+  }
+}
+
+@media(max-width: 575px) and (max-height: 896px){
+  .cardContainer{
+    padding: 117px 20px;
+  }
+}
+
+@media(max-width: 575px) and (max-height: 740px){
+  .cardContainer{
+    padding: 80px 20px 0 20px;
+  }
+}

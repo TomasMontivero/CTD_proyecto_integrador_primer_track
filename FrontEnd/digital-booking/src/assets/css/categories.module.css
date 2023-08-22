@@ -1,0 +1,27 @@
+.categoriesTitle{
+  padding: 0;
+  font-weight: 500;
+  color: var(--font-color);
+}
+
+.categoriesTitle h2{
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: var(--font-color);
+  padding: 0;
+}
+
+.categoriesTitle p{
+  font-size: 22px;
+  padding-left: 30px;
+  padding: 0;
+}
+
+@media(max-width: 575px){
+  .containerCategories{
+    /* grid-template-columns: none; */
+  }
+  .categoriesTitle{
+    padding: 0;
+  }
+}

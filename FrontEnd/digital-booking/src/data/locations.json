@@ -1,0 +1,55 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "city": "Rio de Janeiro",
+        "country": "Brasil"
+      },
+      {
+        "id": 2,
+        "city": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "id": 3,
+        "city": "Santiago de Chile",
+        "country": "Chile"
+      },
+      {
+        "id": 4,
+        "city": "San Pablo",
+        "country": "Brasil"
+      },
+      {
+        "id": 5,
+        "city": "Mendoza",
+        "country": "Argentina"
+      },
+      {
+        "id": 6,
+        "city": "Montevideo",
+        "country": "Uruguay"
+      },
+      {
+        "id": 7,
+        "city": "Salta",
+        "country": "Argentina"
+      },
+      {
+        "id": 8,
+        "city": "Porto Alegre",
+        "country": "Brasil"
+      },
+      {
+        "id": 9,
+        "city": "Mendoza",
+        "country": "Argentina"
+
+      },
+      {
+        "id": 10,
+        "city": "Punta del Este",
+        "country": "Uruguay"
+    }
+    ]
+}

@@ -1,0 +1,346 @@
+[2022-11-04 21:22:50] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-04 21:24:40] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-04 21:25:54] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-04 21:25:58] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-07 20:32:13] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-07 20:32:17] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-07 20:32:20] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-07 20:49:48] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-07 20:49:55] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-07 20:49:59] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-07 21:07:09] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-07 21:07:16] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-07 21:08:38] [ INFO ] [CityService:43] ---- Ciudad creada: ID: 1 - Nombre: Nombre 1 - País: Pais 1
+[2022-11-07 21:11:01] [ INFO ] [ProductService:43] ---- Producto creado: ID: 1 - Titulo: Titulo 1
+[2022-11-07 21:11:19] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-07 21:14:20] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-07 21:14:23] [ INFO ] [CityService:43] ---- Ciudad creada: ID: 1 - Nombre: Nombre 1 - País: Pais 1
+[2022-11-07 21:14:27] [ INFO ] [ProductService:43] ---- Producto creado: ID: 1 - Titulo: Titulo 1
+[2022-11-07 21:16:16] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-07 21:16:19] [ INFO ] [CityService:43] ---- Ciudad creada: ID: 1 - Nombre: Nombre 1 - País: Pais 1
+[2022-11-07 21:16:23] [ INFO ] [ProductService:43] ---- Producto creado: ID: 1 - Titulo: Titulo 1
+[2022-11-07 21:16:29] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-07 21:16:32] [ INFO ] [ProductService:81] ---- Lista de productos generada
+[2022-11-07 21:19:08] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-07 21:19:14] [ INFO ] [CityService:43] ---- Ciudad creada: ID: 1 - Nombre: Nombre 1 - País: Pais 1
+[2022-11-07 21:19:21] [ INFO ] [ProductService:43] ---- Producto creado: ID: 1 - Titulo: Titulo 1
+[2022-11-07 21:19:27] [ INFO ] [ProductService:81] ---- Lista de productos generada
+[2022-11-07 21:22:12] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 2 - Titulo: Titulo 2 - Descripcion: Descripcion 2
+[2022-11-08 20:54:41] [ INFO ] [ProductService:105] ---- Lista de productos generada
+[2022-11-08 21:00:34] [ INFO ] [ProductService:105] ---- Lista de productos generada
+[2022-11-08 21:01:40] [ INFO ] [ProductService:105] ---- Lista de productos generada
+[2022-11-08 21:02:02] [ INFO ] [ProductService:105] ---- Lista de productos generada
+[2022-11-08 21:06:51] [ INFO ] [ProductService:105] ---- Lista de productos generada
+[2022-11-08 21:13:10] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:13:22] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:13:23] [ INFO ] [CategoryService:70] ---- Categoria encontrada: ID: 4 - Titulo: bed and breakfast - Descripcion: bed and breakfast
+[2022-11-08 21:13:23] [ INFO ] [ProductService:87] ---- Lista de productos generada, filtrada por Category ID: 4
+[2022-11-08 21:15:16] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:15:27] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:15:28] [ INFO ] [CategoryService:70] ---- Categoria encontrada: ID: 4 - Titulo: bed and breakfast - Descripcion: bed and breakfast
+[2022-11-08 21:15:28] [ INFO ] [ProductService:87] ---- Lista de productos generada, filtrada por Category ID: 4
+[2022-11-08 21:17:06] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:17:16] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:17:17] [ INFO ] [CategoryService:70] ---- Categoria encontrada: ID: 4 - Titulo: bed and breakfast - Descripcion: bed and breakfast
+[2022-11-08 21:17:17] [ INFO ] [ProductService:87] ---- Lista de productos generada, filtrada por Category ID: 4
+[2022-11-08 21:19:47] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:20:22] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:20:23] [ INFO ] [CityService:69] ---- Ciudad encontrada: ID: 3 - Nombre: Santiago de Chile - País: Chile
+[2022-11-08 21:20:23] [ INFO ] [ProductService:97] ---- Lista de productos generada, filtrada por City ID: 3
+[2022-11-08 21:28:07] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:28:08] [ INFO ] [CategoryService:70] ---- Categoria encontrada: ID: 2 - Titulo: hostels - Descripcion: hostels
+[2022-11-08 21:28:08] [ INFO ] [ProductService:87] ---- Lista de productos generada, filtrada por Category ID: 2
+[2022-11-08 21:28:40] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:28:41] [ ERROR] [CategoryService:72] ---- Falló la busqueda de la categoria ID: 20
+[2022-11-08 21:29:11] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-08 21:29:12] [ INFO ] [CategoryService:70] ---- Categoria encontrada: ID: 2 - Titulo: hostels - Descripcion: hostels
+[2022-11-08 21:29:12] [ INFO ] [ProductService:87] ---- Lista de productos generada, filtrada por Category ID: 2
+[2022-11-09 19:11:43] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-09 19:11:53] [ INFO ] [ProductService:107] ---- Lista de productos generada
+[2022-11-09 19:11:54] [ INFO ] [CategoryService:70] ---- Categoria encontrada: ID: 2 - Titulo: hostels - Descripcion: hostels
+[2022-11-09 19:11:54] [ INFO ] [ProductService:87] ---- Lista de productos generada, filtrada por Category ID: 2
+[2022-11-15 20:50:28] [ INFO ] [ProductService:109] ---- Lista de productos generada
+[2022-11-15 20:52:38] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-11-15 20:55:12] [ INFO ] [ProductService:109] ---- Lista de productos generada
+[2022-11-15 20:57:48] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-11-15 21:01:21] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-17 20:20:07] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-17 20:24:09] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-17 20:24:10] [ INFO ] [CityService:69] ---- Ciudad encontrada: ID: 4 - Nombre: San Pablo - País: Brasil
+[2022-11-17 20:24:10] [ INFO ] [ProductService:100] ---- Lista de productos generada, filtrada por City ID: 4
+[2022-11-17 20:24:27] [ INFO ] [CategoryService:70] ---- Categoria encontrada: ID: 4 - Titulo: bed & breakfast - Descripcion: bed & breakfast
+[2022-11-18 18:25:06] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:25:18] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:34:10] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:34:17] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:36:40] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:36:47] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:43:01] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:43:04] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:43:08] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:45:58] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:46:02] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 18:49:03] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 19:26:04] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 19:33:09] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 19:41:56] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 19:46:24] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 20:30:22] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 20:40:14] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 20:44:05] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 20:44:20] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-18 20:45:30] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 20:50:03] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 20:50:10] [ INFO ] [UserService:41] ---- Usuario creado: ID: 4 - Email: mail1@mail.com
+[2022-11-18 20:52:54] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:01:33] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:05:12] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:06:15] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:06:28] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:11:01] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:11:07] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:23:43] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:25:10] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:26:55] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:31:23] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:50:05] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:51:25] [ INFO ] [UserService:42] ---- Usuario creado: ID: 5 - Email: mail2@mail.com
+[2022-11-18 21:53:40] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:53:43] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 21:54:06] [ INFO ] [UserService:54] ---- Usuario encontrado: ID: 5 - Email: mail2@mail.com - Password: $2a$10$Nhxu0PZaSMVDczX1QF0Xl.tA2soRLuC09z.yvNpSnCRnFXzstFF8q
+[2022-11-18 21:56:34] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 22:04:02] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-18 22:28:24] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-22 18:53:39] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-22 19:15:53] [ INFO ] [BookingService:81] ---- Lista de reservas generada
+[2022-11-22 19:16:29] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-22 19:45:55] [ INFO ] [BookingService:81] ---- Lista de reservas generada
+[2022-11-22 19:46:11] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-22 19:46:16] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-11-22 19:46:33] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-22 19:51:25] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-22 19:52:17] [ INFO ] [AmenityService:84] ---- Lista de amenities generada
+[2022-11-22 19:52:30] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-22 20:11:43] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-22 20:12:43] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-23 19:06:37] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-23 21:41:42] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-23 21:42:07] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-23 21:45:15] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-23 21:45:21] [ ERROR] [UserService:57] ---- Falló la busqueda del usuario ID: 1
+[2022-11-23 21:45:38] [ ERROR] [UserService:57] ---- Falló la busqueda del usuario ID: 0
+[2022-11-23 21:51:13] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-23 21:57:13] [ INFO ] [UserService:42] ---- Usuario creado: ID: 9 - Email: email@email.com
+[2022-11-23 21:58:15] [ INFO ] [BookingService:58] ---- Reserva creada: ID: 1
+[2022-11-23 22:09:50] [ ERROR] [BookingService:69] ---- Falló la búsqueda de la reserva ID: 0
+[2022-11-24 18:41:49] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-24 20:10:13] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 1
+[2022-11-24 20:10:29] [ ERROR] [BookingService:76] ---- Falló la búsqueda de la reserva ID: 2
+[2022-11-24 20:10:42] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 1
+[2022-11-24 20:11:03] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 1
+[2022-11-24 20:12:21] [ INFO ] [BookingService:62] ---- Reserva creada: ID: 2
+[2022-11-24 20:12:31] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 1
+[2022-11-24 20:12:37] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 2
+[2022-11-24 20:12:47] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 1
+[2022-11-24 20:15:16] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 1
+[2022-11-24 20:15:20] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-24 20:15:25] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 1
+[2022-11-24 20:43:09] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-24 20:44:26] [ INFO ] [UserService:42] ---- Usuario creado: ID: 10 - Email: email3
+[2022-11-24 20:44:36] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-11-29 19:51:58] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 19:52:25] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-29 19:52:43] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-29 20:02:53] [ INFO ] [UserService:73] ---- Lista de reservas generada
+[2022-11-29 20:03:51] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 20:27:08] [ INFO ] [UserService:73] ---- Lista de reservas generada
+[2022-11-29 20:27:36] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 20:27:52] [ INFO ] [BookingService:62] ---- Reserva creada: ID: 3
+[2022-11-29 20:28:01] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 20:28:29] [ INFO ] [BookingService:74] ---- Reserva encontrada: ID: 3
+[2022-11-29 20:28:33] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 20:31:28] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 20:31:31] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 20:33:09] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 20:33:24] [ INFO ] [BookingService:62] ---- Reserva creada: ID: 4
+[2022-11-29 20:33:30] [ INFO ] [BookingService:100] ---- Lista de reservas generada
+[2022-11-29 20:36:04] [ INFO ] [UserService:73] ---- Lista de usuarios generada
+[2022-11-29 20:36:16] [ INFO ] [UserService:73] ---- Lista de usuarios generada
+[2022-11-29 20:39:47] [ INFO ] [UserService:54] ---- Usuario encontrado: ID: 9 - Email: email@email.com - Password: $2a$10$mVGfKv6p2U5itQf/mpJM9Oomzg3WKXkVDeiUS8rusyn3FDQp.8BS.
+[2022-11-29 20:39:52] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-29 20:40:01] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-11-29 20:40:14] [ INFO ] [BookingService:63] ---- Reserva encontrada: ID: 3
+[2022-11-29 20:40:22] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-11-29 20:40:24] [ INFO ] [ProductService:77] ---- Producto encontrado: ID: 6 - Titulo: Quinta de Rial
+[2022-11-29 20:40:30] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-11-29 20:40:31] [ INFO ] [ProductService:77] ---- Producto encontrado: ID: 5 - Titulo: Hotel Mallorca
+[2022-11-29 20:44:36] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-11-29 20:44:38] [ INFO ] [ProductService:77] ---- Producto encontrado: ID: 5 - Titulo: Hotel Mallorca
+[2022-11-29 20:44:38] [ INFO ] [BookingService:76] ---- Lista de reservas generada, filtrada por Producto ID: 5
+[2022-11-29 20:44:46] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-11-29 20:44:48] [ INFO ] [ProductService:77] ---- Producto encontrado: ID: 4 - Titulo: Pousada Franceses
+[2022-11-29 20:44:48] [ INFO ] [BookingService:76] ---- Lista de reservas generada, filtrada por Producto ID: 4
+[2022-11-29 20:44:56] [ INFO ] [BookingService:63] ---- Reserva encontrada: ID: 3
+[2022-11-29 20:45:02] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-11-29 20:47:28] [ INFO ] [BookingService:53] ---- Reserva creada: ID: 5
+[2022-11-29 20:47:36] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-11-29 21:18:20] [ INFO ] [UserService:42] ---- Usuario creado: ID: 12 - Email: email
+[2022-11-29 21:18:30] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-29 22:34:00] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-29 23:08:18] [ INFO ] [UserService:42] ---- Usuario creado: ID: 13 - Email: email5
+[2022-11-29 23:08:23] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-29 23:16:08] [ INFO ] [UserService:42] ---- Usuario creado: ID: 14 - Email: email6
+[2022-11-29 23:16:14] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-29 23:19:04] [ INFO ] [UserService:42] ---- Usuario creado: ID: 15 - Email: email7
+[2022-11-29 23:19:08] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-29 23:40:32] [ INFO ] [UserService:42] ---- Usuario creado: ID: 16 - Email: email8
+[2022-11-29 23:40:35] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-29 23:50:59] [ INFO ] [UserService:42] ---- Usuario creado: ID: 17 - Email: email9
+[2022-11-30 19:26:16] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-30 19:26:58] [ INFO ] [UserService:42] ---- Usuario creado: ID: 18 - Email: email10
+[2022-11-30 19:27:04] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-11-30 19:39:17] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-30 19:41:03] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-30 19:41:15] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-11-30 19:41:17] [ INFO ] [ProductService:110] ---- Lista de productos generada
+[2022-11-30 19:41:42] [ INFO ] [BookingService:53] ---- Reserva creada: ID: 6
+[2022-11-30 19:42:27] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-02 21:31:39] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-02 21:32:03] [ INFO ] [BookingService:63] ---- Reserva encontrada: ID: 5
+[2022-12-02 21:32:31] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-02 21:36:38] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-02 21:36:40] [ INFO ] [ProductService:84] ---- Producto encontrado: ID: 6 - Titulo: Quinta de Rial
+[2022-12-02 21:36:40] [ INFO ] [BookingService:76] ---- Lista de reservas generada, filtrada por Producto ID: 6
+[2022-12-02 21:37:36] [ INFO ] [BookingService:53] ---- Reserva creada: ID: 10
+[2022-12-02 21:37:50] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-02 21:37:51] [ INFO ] [ProductService:84] ---- Producto encontrado: ID: 6 - Titulo: Quinta de Rial
+[2022-12-02 21:37:51] [ INFO ] [BookingService:76] ---- Lista de reservas generada, filtrada por Producto ID: 6
+[2022-12-02 21:47:12] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-02 21:48:15] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-02 21:51:24] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-02 21:59:53] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-02 22:03:42] [ INFO ] [AmenityService:84] ---- Lista de amenities generada
+[2022-12-02 22:04:09] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-02 22:09:31] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-12-02 22:09:44] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-02 22:09:55] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-02 22:10:59] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-02 22:11:57] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-02 22:12:08] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-12-02 22:14:01] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-02 22:14:15] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-02 22:21:43] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-02 22:22:56] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 18:40:30] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 18:41:01] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 18:46:22] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 18:46:36] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 18:47:08] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 18:47:09] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-05 18:54:35] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 18:54:36] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 18:54:46] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 18:57:36] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 18:57:45] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:14:34] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:14:47] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:16:27] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:16:45] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:17:13] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:17:18] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:19:41] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:20:52] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:21:09] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-05 19:21:21] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-12-05 19:21:35] [ INFO ] [AmenityService:84] ---- Lista de amenities generada
+[2022-12-05 19:21:51] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-05 19:22:02] [ INFO ] [AvailabilityService:69] ---- Lista de disponibilidades generada
+[2022-12-05 19:22:25] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-05 19:28:35] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:28:43] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:33:26] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:33:37] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:36:37] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:42:47] [ INFO ] [ProductService:56] ---- Producto creado: ID: 18 - Titulo: Hostel Las Estrellas 2
+[2022-12-05 19:43:04] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:43:51] [ INFO ] [ProductService:84] ---- Producto encontrado: ID: 18 - Titulo: Hostel Las Estrellas 2
+[2022-12-05 19:45:04] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:49:12] [ INFO ] [ImageService:44] ---- Imagen creada: ID: 11
+[2022-12-05 19:49:32] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-12-05 19:50:02] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-05 19:51:47] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-05 19:52:01] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-12-05 20:02:15] [ INFO ] [AmenityService:84] ---- Lista de amenities generada
+[2022-12-05 20:06:41] [ INFO ] [UserService:42] ---- Usuario creado: ID: 19 - Email: emailtomas2
+[2022-12-05 20:07:29] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-05 20:08:20] [ INFO ] [BookingService:53] ---- Reserva creada: ID: 11
+[2022-12-05 20:08:30] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-05 20:08:54] [ INFO ] [AvailabilityService:69] ---- Lista de disponibilidades generada
+[2022-12-05 20:09:34] [ INFO ] [AvailabilityService:49] ---- Disponibilidad creada: ID: 1
+[2022-12-05 20:09:47] [ INFO ] [AvailabilityService:69] ---- Lista de disponibilidades generada
+[2022-12-05 20:10:40] [ INFO ] [AvailabilityService:49] ---- Disponibilidad creada: ID: 2
+[2022-12-05 20:10:45] [ INFO ] [AvailabilityService:69] ---- Lista de disponibilidades generada
+[2022-12-05 20:11:25] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-06 19:45:53] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-06 19:45:54] [ INFO ] [ProductService:119] ---- Lista de productos generada
+[2022-12-06 19:46:09] [ INFO ] [UserService:42] ---- Usuario creado: ID: 22 - Email: email061222@mail.com
+[2022-12-06 19:55:02] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-06 19:56:22] [ INFO ] [UserService:42] ---- Usuario creado: ID: 23 - Email: email061222_2@mail.com
+[2022-12-06 20:02:07] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-06 20:06:28] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-06 20:06:33] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-06 20:09:10] [ INFO ] [UserService:42] ---- Usuario creado: ID: 25 - Email: email061222_3@mail.com
+[2022-12-06 20:09:53] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-06 21:03:52] [ INFO ] [ProductService:118] ---- Lista de productos generada
+[2022-12-06 21:05:00] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-06 21:06:05] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-06 21:07:36] [ INFO ] [ImageService:47] ---- Imagen creada: ID: 12
+[2022-12-06 21:08:02] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-06 21:08:29] [ INFO ] [ProductService:118] ---- Lista de productos generada
+[2022-12-06 21:10:28] [ INFO ] [ImageService:75] ---- Imagen encontrada: ID:12
+[2022-12-06 21:10:53] [ INFO ] [ImageService:75] ---- Imagen encontrada: ID:12
+[2022-12-06 21:10:54] [ INFO ] [ImageService:75] ---- Imagen encontrada: ID:12
+[2022-12-06 21:10:55] [ INFO ] [ImageService:63] ---- Imagen eliminada: ID: 12
+[2022-12-06 21:11:08] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-06 21:11:20] [ INFO ] [ProductService:118] ---- Lista de productos generada
+[2022-12-06 21:22:56] [ INFO ] [AvailabilityService:74] ---- Lista de disponibilidades generada
+[2022-12-06 21:23:26] [ INFO ] [AvailabilityService:74] ---- Lista de disponibilidades generada
+[2022-12-06 21:24:17] [ INFO ] [AvailabilityService:52] ---- Disponibilidad creada: ID: 3
+[2022-12-06 21:24:33] [ INFO ] [ProductService:118] ---- Lista de productos generada
+[2022-12-06 21:24:34] [ INFO ] [AvailabilityService:74] ---- Lista de disponibilidades generada
+[2022-12-06 21:25:09] [ INFO ] [AvailabilityService:74] ---- Lista de disponibilidades generada
+[2022-12-06 21:25:11] [ INFO ] [ProductService:83] ---- Producto encontrado: ID: 6 - Titulo: Quinta de Rial
+[2022-12-06 21:25:11] [ INFO ] [AvailabilityService:62] ---- Lista de disponibilidades generada, filtrada por Producto ID: 6
+[2022-12-07 21:36:44] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 21:37:02] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 21:37:07] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-07 21:38:28] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-07 21:38:33] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 21:39:39] [ INFO ] [UserService:42] ---- Usuario creado: ID: 28 - Email: email_071222@mail.com
+[2022-12-07 21:39:50] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 21:43:45] [ INFO ] [UserService:42] ---- Usuario creado: ID: 29 - Email: customer@customer.com
+[2022-12-07 21:43:51] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 21:47:18] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 21:47:50] [ INFO ] [UserService:42] ---- Usuario creado: ID: 30 - Email: email_071222_2@mail.com
+[2022-12-07 21:48:06] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 21:48:41] [ INFO ] [UserService:42] ---- Usuario creado: ID: 31 - Email: customer@email.com
+[2022-12-07 21:48:48] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 21:50:30] [ INFO ] [UserService:42] ---- Usuario creado: ID: 32 - Email: admin@email.com
+[2022-12-07 21:50:35] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-07 22:00:04] [ INFO ] [ProductService:118] ---- Lista de productos generada
+[2022-12-07 22:02:44] [ INFO ] [ProductService:55] ---- Producto creado: ID: 20 - Titulo: Hostel Las Lunas
+[2022-12-07 22:03:02] [ INFO ] [ProductService:118] ---- Lista de productos generada
+[2022-12-07 22:03:21] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-07 22:03:49] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-07 22:03:55] [ INFO ] [ProductService:118] ---- Lista de productos generada
+[2022-12-07 22:04:24] [ INFO ] [ImageService:47] ---- Imagen creada: ID: 13
+[2022-12-07 22:04:33] [ INFO ] [ImageService:90] ---- Lista de imagenes generada
+[2022-12-07 22:04:52] [ INFO ] [ProductService:118] ---- Lista de productos generada
+[2022-12-07 22:05:04] [ INFO ] [CityService:83] ---- Lista de ciudades generada
+[2022-12-07 22:05:12] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-12-07 22:05:25] [ INFO ] [AmenityService:84] ---- Lista de amenities generada
+[2022-12-07 22:06:26] [ INFO ] [BookingService:88] ---- Lista de reservas generada
+[2022-12-07 22:06:35] [ INFO ] [AvailabilityService:74] ---- Lista de disponibilidades generada
+[2022-12-07 22:06:46] [ INFO ] [UserService:68] ---- Lista de usuarios generada
+[2022-12-12 21:01:34] [ INFO ] [UserService:42] ---- Usuario creado: ID: 38 - Email: mcampos@mail.com
+[2022-12-12 21:04:20] [ INFO ] [UserService:42] ---- Usuario creado: ID: 39 - Email: APizarnik@mail.com

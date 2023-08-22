@@ -1,0 +1,8 @@
+[2022-11-04 21:04:50] [ INFO ] [ProductService:81] ---- Lista de productos generada
+[2022-11-04 21:04:59] [ INFO ] [ImageService:82] ---- Lista de imagenes generada
+[2022-11-04 21:05:05] [ INFO ] [CategoryService:84] ---- Lista de categorias generada
+[2022-11-04 21:06:49] [ INFO ] [ProductService:81] ---- Lista de productos generada
+[2022-11-04 21:07:00] [ INFO ] [ProductService:81] ---- Lista de productos generada
+[2022-11-04 21:10:58] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-04 21:13:07] [ INFO ] [CategoryService:44] ---- Categoria creada: ID: 1 - Titulo: Titulo 1 - Descripcion: Descripcion 1
+[2022-11-04 21:13:31] [ INFO ] [CategoryService:84] ---- Lista de categorias generada

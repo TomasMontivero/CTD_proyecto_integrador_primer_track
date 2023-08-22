@@ -1,0 +1,113 @@
+.bannerContainer{
+  /* background-image: url(../assets/img/banner-bg-1.jpg); */
+  background-color: var(--primary);
+  background-size: cover;
+  background-position: top;
+  color: #fff;
+  /* height: 43vh; */
+  padding: 50px 0;
+  /* padding-top: 120px; */
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.bannerContainer h1{
+  /* color: var(--font-color); */
+  margin-bottom: 7px;
+}
+.bannerContainer p{
+  font-size: 1.5rem;
+  max-width: 100vw !important;
+}
+
+.bannerTitle {
+  font-weight: 600 !important;
+}
+
+.bannerForm{
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.bannerInputs{
+  height: 53px;
+  border-radius: 8px !important;
+  background-color: #fff !important;
+  border: 4px solid var(--highlight) !important;
+  width: 100%;
+}
+.bannerForm .location{
+  color: black;
+  font-family: 'Poppins';
+  font-weight: 400;
+  width: 100%;
+  height: 53px;  
+}
+.bannerForm .location:hover{
+  color: black !important;
+}
+
+.dropdownMenu{
+  width: 100%;
+  height: 45vh;
+  overflow: auto;
+}
+.dropdownItem:hover{
+  background-color: rgba(251, 192, 45, .25) !important;
+}
+
+
+.bannerForm .dates{
+  background-image: url(../img/icons/calendar-day-solid.svg);
+  width: 100%;
+  padding-left: 43px !important;
+  background-position: 3%;
+  background-size: 25px;
+  background-repeat: no-repeat;
+}
+
+.btnSubmit{
+  height: 55px;
+  font-size: 18px;
+  width: 100%;
+  max-width: 300px;
+}
+
+@media(max-width: 991px){
+  .bannerContainer{
+    height: fit-content;
+  }
+  .bannerForm .dates{
+    margin-right: 0;
+    width: 50vw; 
+  }
+  .bannerTitle{
+    padding: 0 10px;
+  }
+
+  .bannerForm{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bannerForm input, .bannerForm .location{
+    width: 50vw;
+  }
+
+  .btnSubmit{
+    margin-top: 20px;
+  }
+}
+
+@media(max-width: 767px){
+  .bannerForm .location, .bannerForm .dates{
+    width: 75vw;
+  }
+  .btnSubmit{
+    width: 60vw;
+  }
+}

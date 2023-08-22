@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "hoteles",
+      "img_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjB8ZW58MHx8MHx8&w=1000&q=80",
+      "amount": 20436
+    },
+    {
+      "id": 2,
+      "name": "hostels",
+      "img_url": "https://www.reportur.com/wp-content/uploads/2019/11/hostel2.jpg",
+      "amount": 8905
+    },
+    {
+      "id": 3,
+      "name": "departamentos",
+      "img_url": "https://images.adsttc.com/media/images/5be3/3bc4/08a5/e549/e300/031a/newsletter/42449.jpg?1541618579",
+      "amount": 10758
+    },
+    {
+      "id": 4,
+      "name": "bed and breakfast",
+      "img_url": "https://static.hosteltur.com/app/public/uploads/img/articles/2015/08/01/L_5b14fe49e7f2c_breakfast.jpg",
+      "amount": 7800
+    }
+  ]
+}

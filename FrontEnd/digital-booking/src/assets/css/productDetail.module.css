@@ -1,0 +1,93 @@
+.detailName{
+  color: #fff;
+  background-color: var(--primary);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.detailSecondary{
+  color: var(--secondary);
+  background-color: var(--shadow);
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.detailDescription{
+  font-size: 18px;
+}
+
+.detailAmenities{
+  min-height: 100px;
+}
+
+.detailAmenities .item{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+.detailAmenities svg{
+  font-size: 24px;
+  color: var(--highlight);
+}
+
+.detailPolitics ul{
+  padding: 0;
+}
+.detailPolitics ul li{
+  list-style: none;
+}
+
+.gallery img{
+  border-radius: 8px;
+}
+
+.galleryBtn{
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 20px !important;
+  text-decoration: underline !important;
+  background-color: rgba(233, 236, 239, .4) !important;
+  padding: 2px 10px !important;
+}
+.galleryBtn:hover{
+  background-color: transparent !important;
+}
+
+.carousel{
+  position: relative;
+  padding: 0 !important;
+  /* max-height: 500px; */
+  background: transparent !important;
+}
+
+.carouselCounter{
+  color: var(--font-color);
+  background-color: rgba(255, 255, 255, 0.8);
+  font-weight: 600;
+  width: fit-content;
+  border-radius: 10px;
+}
+
+.navCarousel{
+  position: absolute; bottom: 50%; right: -10%
+}
+
+.calendar{
+  z-index: 0 !important;
+}
+
+.btnReserva{
+  height: 50px;
+}
+
+@media(max-width: 767px){
+  .imgCarousel{
+    width: 100%;
+  }
+  .navCarousel{
+    right: -30% !important;
+  }
+}

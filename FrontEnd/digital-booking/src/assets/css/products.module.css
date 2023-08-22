@@ -1,0 +1,12 @@
+.listadoContainer{
+  margin-bottom: 150px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.title{
+  padding: 0 30px;
+  font-weight: 600;
+  color: var(--font-color);
+}

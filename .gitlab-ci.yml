@@ -1,0 +1,68 @@
+stages:
+  - build
+  - deploy
+
+build-frontend:
+  stage: build
+  image: node:14.17.5
+  script:
+    - cd FrontEnd/digital-booking
+    - npm install
+    - CI=false npm run build
+  artifacts:
+    paths:
+      - ./FrontEnd/digital-booking/build
+  rules:
+      - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
+        changes:
+          - FrontEnd/**/*
+
+build-backend:
+  stage: build
+  image: maven:3.8.3-openjdk-17
+  script:
+    - cd BackEnd/Booking
+    - mvn clean install
+  artifacts:
+    paths:
+      - ./BackEnd/Booking/target/*.jar
+  rules:
+      - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
+        changes:
+          - BackEnd/**/*
+
+deploy-frontend:    
+  stage: deploy
+  image: 
+    name: amazon/aws-cli
+    entrypoint: [""]
+  script:
+    - cd FrontEnd/digital-booking
+    - aws --version
+    - aws s3 rm s3://$S3_BUCKET --recursive
+    - aws s3 cp ./build/ s3://$S3_BUCKET --recursive
+  rules:
+      - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
+        changes:
+          - FrontEnd/**/*
+
+deploy-backend:    
+  stage: deploy
+  image: 
+    name: alpine:3.11
+  before_script:
+    - apk update && apk add openssh
+    - mkdir -p ~/.ssh
+    - touch ~/.ssh/config 
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+    - touch keys.pem
+    - echo "$SSH_PRIVATE_KEY" >> keys.pem
+    - chmod 400 keys.pem
+  script:
+    - ssh -i keys.pem ec2-user@$DEPLOY_SERVER_IP "sudo systemctl stop backend.service"
+    - scp -i keys.pem ./BackEnd/Booking/target/Booking-0.0.1-SNAPSHOT.jar ec2-user@$DEPLOY_SERVER_IP:/home/ec2-user
+    - ssh -i keys.pem ec2-user@$DEPLOY_SERVER_IP "sudo systemctl start backend.service"
+  rules:
+      - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
+        changes:
+          - BackEnd/**/*

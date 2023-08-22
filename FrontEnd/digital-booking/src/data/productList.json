@@ -1,0 +1,84 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWxlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Hoteles",
+      "title": "Hermitage Hotel",
+      "locationCity": "Rio de Janeiro",
+      "locationCountry": "Brasil",
+      "description": "Lion tomcat tabby birman siberian, malkin. Puma. American shorthair tomcat. ",
+      "rating": 8
+    },
+    {
+      "id": 2,
+      "img": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFiaXRhY2lvbmVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Departamentos",
+      "title": "BA in Style",
+      "locationCity": "Buenos Aires",
+      "locationCountry": "Argentina",
+      "description": "Ocelot bengal. Munchkin himalayan. Egyptian mau turkish angora birman kitty. ",
+      "rating": 7
+    },
+    {
+      "id": 3,
+      "img": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9zdGVsc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Hostels",
+      "title": "Hostal Providencia",
+      "locationCity": "Santiago de Chile",
+      "locationCountry": "Chile",
+      "description": "Sphynx. Savannah maine coon and bengal for tomcat. Panther jaguar yet lion or grimalkin. ",
+      "rating": 8
+    },
+    {
+      "id": 4,
+      "img": "https://images.unsplash.com/photo-1618111415065-c20b4e1afd41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmVkJTIwYW5kJTIwYnJlYWtmYXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Bed & Breakfast",
+      "title": "Pousada Franceses",
+      "locationCity": "San Pablo",
+      "locationCountry": "Brasil",
+      "description": "Malkin tomcat yet scottish fold but egyptian mau cougar for american shorthair for egyptian mau.",
+      "rating": 7.5
+    },
+    {
+      "id": 5,
+      "img": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWxlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Hoteles",
+      "title": "Hotel Mallorca",
+      "locationCity": "Mendoza",
+      "locationCountry": "Argentina",
+      "description": "Puma scottish fold. Munchkin ragdoll tomcat so singapura, cougar sphynx. Cheetah balinese .",
+      "rating": 9
+    },
+    {
+      "id": 6,
+      "img": "https://images.unsplash.com/photo-1585412727339-54e4bae3bbf9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aGFiaXRhY2lvbmVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Departamentos",
+      "title": "Quinta de Rial",
+      "locationCity": "Montevideo",
+      "locationCountry": "Uruguay",
+      "description": "Norwegian forest balinese cheetah. Leopard tiger but sphynx so donskoy. Tabby turkish. ",
+      "rating": 6.5
+    },
+    {
+      "id": 7,
+      "img": "https://images.unsplash.com/photo-1633411187642-f84216917af1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG9zdGVsc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Hostels",
+      "title": "Hostel Las Rejas",
+      "locationCity": "Salta",
+      "locationCountry": "Argentina",
+      "description": "Balinese sphynx for devonshire rex mouser leopard. Savannah sphynx ragdoll havana. ",
+      "rating": 7
+    },
+    {
+      "id": 8,
+      "img": "https://images.unsplash.com/photo-1613618948931-efbc3e6f9775?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmVkJTIwYW5kJTIwYnJlYWtmYXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Bed & Breakfast",
+      "title": "Piano B&B",
+      "locationCity": "Porto Alegre",
+      "locationCountry": "Brasil",
+      "description": "Mouser singapura yet mouser american shorthair norwegian forest. Puma abyssinian.",
+      "rating": 8.5
+    }
+  ]
+}
